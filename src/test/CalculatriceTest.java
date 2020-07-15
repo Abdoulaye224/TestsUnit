@@ -4,8 +4,6 @@ import main.Calculatrice;
 import org.junit.Assert;
 import org.junit.Test;
 
-import javax.annotation.Resource;
-
 public class CalculatriceTest {
     Calculatrice calc = new Calculatrice();
 
@@ -38,7 +36,7 @@ public class CalculatriceTest {
         int b= 2;
         int result = 6;
 
-        Assert.assertEquals(result, calc.mul(a, b));
+        Assert.assertEquals(result, this.calc.mul(a, b));
     }
 
     @Test
