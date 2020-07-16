@@ -8,7 +8,7 @@ Assurez vous d'avoir docker sur votre machine
 
 placez vous dans le dossier .docker et faites
 ```
-docker build -it calculatrice .
+docker build -t calculatrice .
 ```
 
 l'image docker "calculatrice" sera  donc crée en local. Pour lancer ensuite, faites un :

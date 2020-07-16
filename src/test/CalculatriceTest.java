@@ -60,9 +60,9 @@ public class CalculatriceTest {
     @Test
     public void div(){
 
-        int a= 16;
+        int a= 20;
         int b=4;
-        int result = 4;
+        int result = 5;
 
         Assert.assertEquals(result, calc.div(a, b));
 
