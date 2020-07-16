@@ -12,7 +12,7 @@ public class CalculatriceTest {
 
         int a = 2;
         int b = 2;
-        int result = 4;
+        int result = a + b;
 
         Assert.assertEquals(result, calc.add(a, b));
 
@@ -30,9 +30,9 @@ public class CalculatriceTest {
         int a = 8;
         int b = 4;
 
-        int result = 4;
+        int result = a - b;
 
-        Assert.assertEquals(result, calc.sous(a, b));
+        Assert.assertEquals(calc.sous(a, b), result);
 
         if(this.calc.sous(a, b) != result){
             System.out.println("test sous à revoir ");
@@ -45,13 +45,16 @@ public class CalculatriceTest {
     public void mul(){
 
         int a = 3;
-        int b= 2;
-        int result = 6;
+        int b= 3;
+        int result = a * b;
 
-        Assert.assertEquals(result, this.calc.mul(a, b));
+        Assert.assertEquals(calc.mul(a, b), result);
+        Assert.assertNotNull(calc.mul(a, b));
 
         if(this.calc.mul(a, b) != result){
             System.out.println("test mul à revoir ");
+        }else if (a == 0){
+            Assert.assertTrue("a est null", calc.mul(a, b) ==result);
         }else{
             System.out.println("le test de multiplication est bon ");
         }
@@ -62,9 +65,10 @@ public class CalculatriceTest {
 
         int a= 16;
         int b=4;
-        int result = 4;
+        int result = a / b;
 
-        Assert.assertEquals(result, calc.div(a, b));
+        Assert.assertEquals(calc.div(a, b), result);
+        Assert.assertNotNull(calc.div(a, b));
 
         if(this.calc.div(a, b) != result){
             System.out.println("test div à revoir ");
