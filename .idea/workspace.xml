@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TestsUnit:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e16a7e4-c80f-46c0-b2ee-889b0b8eaf5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="215" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TP2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1el83yhnwArZXZCR96PQ49Kh7vw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatriceTest">
+    <configuration name="CalculatriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatriceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatriceTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatriceTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatriceTest.div" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatriceTest" />
+      <option name="METHOD_NAME" value="div" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatriceTest.mul" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatriceTest" />
+      <option name="METHOD_NAME" value="mul" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatriceTest.sous" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatriceTest" />
+      <option name="METHOD_NAME" value="sous" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatriceTest.sous" />
+        <item itemvalue="JUnit.CalculatriceTest.mul" />
+        <item itemvalue="JUnit.CalculatriceTest.div" />
+        <item itemvalue="JUnit.CalculatriceTest.add" />
+        <item itemvalue="JUnit.CalculatriceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Fix: jar file and tests units">
+      <created>1594824989599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594824989600</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix: README and docker-compose version">
+      <created>1594845401616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594845401616</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e16a7e4-c80f-46c0-b2ee-889b0b8eaf5a" name="Default Changelist" comment="" />
+      <created>1594884624129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594884624129</updated>
+      <workItem from="1594884637364" duration="5071000" />
+    </task>
+    <task id="LOCAL-00003" summary="Fix: README and tests">
+      <created>1594891948829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594891948830</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix: tests and README">
+      <created>1594892667445</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594892667445</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix: jar file and tests units" />
+    <MESSAGE value="Fix: README and docker-compose version" />
+    <MESSAGE value="Fix: README and tests" />
+    <MESSAGE value="Fix: tests and README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: tests and README" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="701" y="-776" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594824583720">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="701" y="-776" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594824583720" />
+    <state x="701" y="-812" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594824553399">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="701" y="-812" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594824553399" />
+    <state x="596" y="-963" key="CommitChangelistDialog2" timestamp="1594892666220">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="596" y="-963" key="CommitChangelistDialog2/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594892666220" />
+    <state x="362" y="-957" key="DiffContextDialog" timestamp="1594892557694">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="362" y="-957" key="DiffContextDialog/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594892557694" />
+    <state width="1877" height="391" key="GridCell.Tab.0.bottom" timestamp="1594893383113">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.0.bottom/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594893383113" />
+    <state width="1877" height="391" key="GridCell.Tab.0.center" timestamp="1594893383112">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.0.center/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594893383112" />
+    <state width="1877" height="391" key="GridCell.Tab.0.left" timestamp="1594893383112">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.0.left/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594893383112" />
+    <state width="1877" height="391" key="GridCell.Tab.0.right" timestamp="1594893383112">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.0.right/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594893383112" />
+    <state x="451" y="-985" key="SettingsEditor" timestamp="1594824587996">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="451" y="-985" key="SettingsEditor/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594824587996" />
+    <state x="563" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1594892673627">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="563" y="-826" key="Vcs.Push.Dialog.v2/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594892673627" />
+    <state x="634" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1594821791752">
+      <screen x="11" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="634" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1504.963/11.-1080.1920.1040@11.-1080.1920.1040" timestamp="1594821791752" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestsUnit$CalculatriceTest.ic" NAME="CalculatriceTest Coverage Results" MODIFIED="1594845920802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestsUnit$CalculatriceTest_mul.ic" NAME="CalculatriceTest.mul Coverage Results" MODIFIED="1594849060575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestsUnit$CalculatriceTest_testMul.ic" NAME="CalculatriceTest.testMul Coverage Results" MODIFIED="1594821980944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
