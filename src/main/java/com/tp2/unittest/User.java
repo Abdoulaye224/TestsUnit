@@ -1,9 +1,10 @@
 package com.tp2.unittest;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 
+@Service
 public class User {
 
     private String name;
@@ -17,12 +18,6 @@ public class User {
 
     private static final String regex = "^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$";
 
-    public User(String name, String firstName, String email, int age) {
-        this.name = name;
-        this.firstName = firstName;
-        this.email = email;
-        this.age = age;
-    }
 
     public ArrayList<User> getUsers() {
         return users;
